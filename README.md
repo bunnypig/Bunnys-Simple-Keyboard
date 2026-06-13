@@ -8,7 +8,9 @@ This is for personal use and all credits goes to mdev588. I will not include oth
 How to install:
 
 1. Add the COPR repository
-   # dnf copr enable bunnypig/bunnys-simple-keyboard
+   
+   dnf copr enable bunnypig/bunnys-simple-keyboard
 
-2. Run install command
-   # dnf install bunnyskeyboard
+3. Run install command
+   
+   dnf install bunnyskeyboard
